@@ -1,7 +1,7 @@
 
 {  
   "token": "",
-  "prefix": "t!",
+  "prefix": "v!",
   "activity": "/help | watching tickets ✌️ | On Cluster: {shards} | coded by .gg/azury",
   "type": "WATCHING",
   "status": "idle",
@@ -9,7 +9,7 @@
   "COMMENT": "Only enable hostingweb if you are using replit!",
   "hostingweb": true,
   
-  "developers": ["718200923490615316", "693553429380857978", "660149380329766924"],
+  "developers": ["978219738754875432", "978219738754875432", "978219738754875432"],
 
 
 
